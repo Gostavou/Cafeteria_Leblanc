@@ -5,7 +5,7 @@
   background-attachment: scroll;
   background-color: rgb(233, 210, 181);
   margin:0;
-  padding: 0;
+  padding: 0;=
 }
 
 .simbolo1{
@@ -37,6 +37,9 @@
   z-index: 1;
 }
 
+.sobre{
+  color: rgb(110, 61, 39);
+}
 
 .content-link{
   text-decoration: none;
@@ -257,6 +260,14 @@
   scroll-margin-top: 100px;
 }
 
+#pedido{
+  scroll-margin-top: 90px;
+
+}
+
+#sobre{
+  scroll-margin-top:100px;
+}
 #pedido{
   scroll-margin-top: 90px;
 
