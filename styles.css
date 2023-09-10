@@ -1,0 +1,263 @@
+.content {
+  background-image: url(realistic-coffee-time-background-with-coffee-cup_79603-1559_auto_x2-transformed.jpeg);
+  background-size: 1920px 925px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-color: rgb(233, 210, 181);
+  margin:0;
+  padding: 0;
+}
+
+.simbolo1{
+  left: 22px;
+  top: 10px;
+  position: fixed;
+  width: 80px;
+  z-index: 1;
+}
+.simbolo2{
+  right: 182px;
+  top: 25px;
+  position: fixed;
+  width: 65px;
+  z-index: 1;
+}
+.simbolo3{
+  right: 102px;
+  top: 30px;
+  position: fixed;
+  width: 55px;
+  z-index: 1;
+}
+.simbolo4{
+  right: 12px;
+  top: 18px;
+  position: fixed;
+  width: 80px;
+  z-index: 1;
+}
+
+
+.content-link{
+  text-decoration: none;
+  color: white;
+  margin-left: 40px;
+}
+
+.content-ul {
+  margin-top: -50px;
+  margin-right: 280px;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.titulo{
+  color: rgb(255, 255, 255);
+  font-family: garamond,sans-serif;
+  margin-left: 80px;
+  padding-left: 50px;
+  line-height: 10px;
+}
+
+
+.content-header{
+  background-color: rgb(230, 140, 57);
+  text-align: left;
+  padding: 1px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.content-desc{
+  color: rgb(255, 255, 255);
+  margin-top: 320px;
+  line-height:  35px;
+  padding-left: 1300px;
+  width: 200px;
+  line-height: 40px;
+}
+
+
+.vertical-space {
+  height: 340px;
+}
+
+.content-cardapio {
+  color: rgb(110, 61, 39);
+  font-family: garamond,sans-serif;
+  text-align: center;
+  margin-top:223px;
+}
+
+.imagem-container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bebida {
+  max-width: 10%; 
+  height: auto;
+  margin: 0; 
+}
+
+#imagem1 {
+  width: 300px; 
+  margin-left: 200px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#imagem2 {
+  width: 425px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#imagem3 {
+  width: 299px;
+  margin-right: 100px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.produto1{
+  margin-left: 185px;
+}
+
+.produto2{
+
+}
+
+.produto3{
+  margin-right:100px;
+}
+
+.imagem-container2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#imagem4{
+  height: 420px;
+  width: 300px; 
+  margin-left: 140px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#imagem5{
+  margin-right: 90px;
+  height: 420px;
+  width: 420px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#imagem6{
+  height: 420px;
+  width: 300px;
+  margin-right: 125px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.produto4{
+  margin-left: 155px;
+}
+
+.produto5{
+  margin-right: 70px;
+}   
+
+.produto6{
+  margin-right:100px;
+}
+
+.imagem-container3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#imagem7{
+  margin-left: 167px;
+  height: 470px;
+  width: 300px; 
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#imagem8{
+  margin-left:-28px;
+  height: 470px;
+  width: 420px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#imagem9{
+  margin-left: -80px;
+  height: 475px;
+  width: 300px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.produto7{
+  margin-left: 150px;
+}
+
+.produto8{
+  margin-left: -58px;
+}
+
+
+.produto9{
+  margin-right: 80px;
+}
+.content-pedido{
+  background-color: #A1CAC8;
+  font-family: garamond,sans-serif;
+  text-align: center;
+}
+.content-pedir{
+  color: #ffffff;
+  background-color: #A1CAC8; 
+  padding: 10px 20px; 
+  border-radius: 5px; 
+  cursor: pointer;
+ 
+}
+.content-pedir:hover {
+  background-color: #8FAEAB;
+}
+
+.content-mapa{
+  font-family: Garamond,sans-serif;
+  text-align: center;
+}
+
+
+.content-footer{
+  padding: 1px;
+  background-color: #b66249;
+  font-family: Garamond,sans-serif;
+  text-align: center;
+}
+
+#catalogo {
+  scroll-margin-top: 100px;
+}
+
+#pedido{
+  scroll-margin-top: 90px;
+
+}
